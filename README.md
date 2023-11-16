@@ -19,3 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertaltuntass&show_icons=true&locale=en&layout=compact" alt="mertaltuntass" /></p>
 
+
+![snake gif](https://github.com/MertAltuntass/MertAltuntass/blob/output/github-contribution-grid-snake.gif)
+
+
