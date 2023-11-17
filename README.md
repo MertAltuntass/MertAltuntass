@@ -1,5 +1,6 @@
-![logo](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
-
+<div style="width:100%;display:flex;justify-content:center;">
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+</div>
 <h1 align="center">Merhaba👋, Ben Mert ALTUNTAŞ</h1>
 <h3 align="center">Hayalindeki Yarını İnşa Et: Bugün, Yarının Temellerini At!</h3>
 
