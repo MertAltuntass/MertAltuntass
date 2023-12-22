@@ -1,7 +1,7 @@
 <div style="width:100%;display:flex;justify-content:center;">
 <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 </div>
-<h1 align="center"Hello👋, I'M Mert ALTUNTAŞ</h1>
+<h1 align="center"Hello👋, I am  Mert ALTUNTAŞ</h1>
 <h3 align="center">Build Your Dream Tomorrow: Lay the Foundations of Tomorrow Today!</h3>
 
 - 🔭 I’m currently working on [MertAltuntass/bat](https://github.com/MertAltuntass/bat)
