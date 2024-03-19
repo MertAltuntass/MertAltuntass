@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [MertAltuntass/bat](https://github.com/MertAltuntass/bat)
 
-- 🌱 I’m currently learning **Cyber Security, Batch language **
+- 🌱 I’m currently learning Cyber Security, Batch language (.bat & .ps1)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MertAltuntass](https://github.com/MertAltuntass)
 
