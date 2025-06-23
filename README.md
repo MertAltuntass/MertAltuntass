@@ -4,7 +4,7 @@
 <h1 align="center">Hello👋, I'm Mert ALTUNTAŞ</h1>
 <h3 align="center">Build Your Dream Tomorrow: Lay the Foundations of Tomorrow Today!</h3>
 
-- 🔭 I’m currently working on [MertAltuntass/bat](https://github.com/MertAltuntass/YoutubeMp3)
+- 🔭 I’m currently working on [MertAltuntass/YoutubeMp3](https://github.com/MertAltuntass/YoutubeMp3)
 
 - 🌱 I’m currently learning Cyber Security, Batch language (.bat & .ps1)
 
