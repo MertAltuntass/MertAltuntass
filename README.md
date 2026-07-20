@@ -78,16 +78,7 @@ automation scripts. Currently developing **MMEdu**, a gamified cyber security le
 ### 📊 GitHub İstatistikleri / Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MertAltuntass&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-streak-stats.demolab.com?user=MertAltuntass&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=MertAltuntass&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MertAltuntass&bg_color=0A0E14&color=E6EDF3&line=00E676&point=22D3EE&area=true&area_color=0F766E&title_color=00E676&hide_border=true&custom_title=Katk%C4%B1%20Aktivitesi%20%2F%20Contribution%20Activity" alt="activity graph"/>
+  <img src="https://raw.githubusercontent.com/MertAltuntass/MertAltuntass/main/github-metrics.svg" alt="GitHub metrics"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,50:0F766E,100:0A0E14&height=100&section=footer" alt="footer"/>
