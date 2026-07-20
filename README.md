@@ -65,13 +65,74 @@ automation scripts. Currently developing **MMEdu**, a gamified cyber security le
 
 ### 📌 Öne Çıkan Projeler / Featured Projects
 
-| Proje | Açıklama | Teknoloji |
-|-------|----------|-----------|
-| [yaztente](https://github.com/MertAltuntass/yaztente) · [🌐 canlı](https://yaztente.com.tr/) | Kurumsal gölgelendirme firması için canlı web sitesi / Live corporate website | Next.js · React · Tailwind |
-| [Renaitrem](https://github.com/MertAltuntass/Renaitrem) | Tek arayüzlü Windows IT / Güvenlik / Pentest araç kiti / All-in-one Windows IT & security toolkit | C# · WPF · .NET 8 |
-| [ADHealthCheck](https://github.com/MertAltuntass/ADHealthCheck) | Active Directory sağlık kontrol betikleri / AD health-check scripts | PowerShell |
-| [MMbpm](https://github.com/MertAltuntass/MMbpm) | BPM + Camelot ton analiziyle harmonik DJ miksi üreten araç / Harmonic auto-mix DJ tool | Python |
-| [MMEducation](https://github.com/MertAltuntass/MMEducation-For-CyberSecurty) | Siber güvenlik eğitim uygulaması *(geliştiriliyor / in development)* | Kotlin |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>☀️ <a href="https://github.com/MertAltuntass/yaztente">yaztente</a></h3>
+<p>Kurumsal gölgelendirme firması için canlı web sitesi.<br/><sub>Live corporate website</sub></p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+</p>
+<a href="https://yaztente.com.tr/"><img src="https://img.shields.io/badge/Canl%C4%B1_Demo-00E676?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="https://github.com/MertAltuntass/yaztente"><img src="https://img.shields.io/badge/Kod-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🛡️ <a href="https://github.com/MertAltuntass/Renaitrem">Renaitrem</a></h3>
+<p>Tek arayüzlü Windows IT / Güvenlik / Pentest araç kiti.<br/><sub>All-in-one Windows IT &amp; security toolkit</sub></p>
+<p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/WPF-0C54C2?style=flat&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+</p>
+<a href="https://github.com/MertAltuntass/Renaitrem"><img src="https://img.shields.io/badge/Kod-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎓 <a href="https://github.com/MertAltuntass/MMEducation-For-CyberSecurty">MMEducation</a></h3>
+<p>Oyunlaştırılmış siber güvenlik eğitim uygulaması.<br/><sub>Gamified security-awareness app · in development</sub></p>
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Geli%C5%9Ftiriliyor-FBBF24?style=flat"/>
+</p>
+<a href="https://github.com/MertAltuntass/MMEducation-For-CyberSecurty"><img src="https://img.shields.io/badge/Kod-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🩺 <a href="https://github.com/MertAltuntass/ADHealthCheck">ADHealthCheck</a></h3>
+<p>Active Directory sağlık kontrol betikleri.<br/><sub>AD health-check scripts</sub></p>
+<p>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white"/>
+</p>
+<a href="https://github.com/MertAltuntass/ADHealthCheck"><img src="https://img.shields.io/badge/Kod-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎧 <a href="https://github.com/MertAltuntass/MMbpm">MMbpm</a></h3>
+<p>BPM + Camelot ton analiziyle harmonik DJ miksi üreten araç.<br/><sub>Harmonic auto-mix DJ tool</sub></p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSP-9333EA?style=flat"/>
+</p>
+<a href="https://github.com/MertAltuntass/MMbpm"><img src="https://img.shields.io/badge/Kod-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
 ---
 
