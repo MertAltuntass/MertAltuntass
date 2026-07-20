@@ -87,7 +87,7 @@ automation scripts. Currently developing **MMEdu**, a gamified cyber security le
 </p>
 
 <p align="center">
-  <img src="https://github.com/MertAltuntass/MertAltuntass/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MertAltuntass&bg_color=0A0E14&color=E6EDF3&line=00E676&point=22D3EE&area=true&area_color=0F766E&title_color=00E676&hide_border=true&custom_title=Katk%C4%B1%20Aktivitesi%20%2F%20Contribution%20Activity" alt="activity graph"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,50:0F766E,100:0A0E14&height=100&section=footer" alt="footer"/>
