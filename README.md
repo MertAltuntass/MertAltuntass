@@ -1,27 +1,71 @@
-<div style="width:100%;display:flex;justify-content:center;">
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-</div>
-<h1 align="center">Hello👋, I'm Mert ALTUNTAŞ</h1>
-<h3 align="center">Build Your Dream Tomorrow: Lay the Foundations of Tomorrow Today!</h3>
+<h1 align="center">Mert Altuntaş</h1>
 
-- 🔭 I’m currently working on [MertAltuntass/YoutubeMp3](https://github.com/MertAltuntass/YoutubeMp3)
-
-- 🌱 I’m currently learning Cyber Security, Batch language (.bat & .ps1)
-
-- 👨‍💻 All of my projects are available at [https://github.com/MertAltuntass](https://github.com/MertAltuntass)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mert-altuntas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mert-altuntas" height="30" width="40" /></a>
-<a href="https://instagram.com/mertaltuntaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mertaltuntaas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mertaltuntas7739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mertaltuntas7739" height="30" width="40" /></a>
+<p align="center">
+  <b>Web Geliştirme · Siber Güvenlik · Sistem Yönetimi</b><br/>
+  Web Development · Cyber Security · System Administration
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/mert-altuntas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/mertaltuntaas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/@mertaltuntas7739"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertaltuntass&show_icons=true&locale=en&layout=compact" alt="mertaltuntass" /></p>
+---
 
+### 🇹🇷 Merhaba
 
-![snake gif](https://github.com/MertAltuntass/MertAltuntass/blob/output/github-contribution-grid-snake.svg)
+Web geliştirme, siber güvenlik ve Windows/Active Directory sistem yönetimi üzerine
+çalışıyorum. Canlı yayında kurumsal web siteleri, güvenlik farkındalığı araçları ve
+yönetim otomasyonu betikleri geliştiriyorum. Şu anda oyunlaştırılmış bir siber
+güvenlik eğitim uygulaması (**MMEdu**) üzerinde çalışıyorum.
 
+### 🇬🇧 Hello
+
+I work on web development, cyber security, and Windows/Active Directory system
+administration. I build production websites, security-awareness tools, and admin
+automation scripts. Currently developing **MMEdu**, a gamified cyber security
+learning app.
+
+---
+
+### 🛠️ Teknolojiler / Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+### 📌 Öne Çıkan Projeler / Featured Projects
+
+| Proje | Açıklama | Teknoloji |
+|-------|----------|-----------|
+| [yaztente](https://github.com/MertAltuntass/yaztente) · [🌐 canlı](https://yaztente.com.tr/) | Kurumsal gölgelendirme firması için canlı web sitesi / Live corporate website | Next.js · React · Tailwind |
+| [turkce-wordlist](https://github.com/MertAltuntass/turkce-wordlist) | Türkçe parola tercihleri analizi / Turkish password-choice analysis | Python |
+| [ADHealthCheck](https://github.com/MertAltuntass/ADHealthCheck) | Active Directory sağlık kontrol betikleri / AD health-check scripts | PowerShell |
+| [MMEducation](https://github.com/MertAltuntass/MMEducation-For-CyberSecurty) | Siber güvenlik eğitim uygulaması *(geliştiriliyor / in development)* | Kotlin |
+
+---
+
+### 📊 GitHub İstatistikleri / Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MertAltuntass&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=MertAltuntass&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/MertAltuntass/MertAltuntass/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
