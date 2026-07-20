@@ -68,7 +68,6 @@ automation scripts. Currently developing **MMEdu**, a gamified cyber security le
 | Proje | Açıklama | Teknoloji |
 |-------|----------|-----------|
 | [yaztente](https://github.com/MertAltuntass/yaztente) · [🌐 canlı](https://yaztente.com.tr/) | Kurumsal gölgelendirme firması için canlı web sitesi / Live corporate website | Next.js · React · Tailwind |
-| [turkce-wordlist](https://github.com/MertAltuntass/turkce-wordlist) | Türkçe parola tercihleri analizi / Turkish password-choice analysis | Python |
 | [ADHealthCheck](https://github.com/MertAltuntass/ADHealthCheck) | Active Directory sağlık kontrol betikleri / AD health-check scripts | PowerShell |
 | [MMEducation](https://github.com/MertAltuntass/MMEducation-For-CyberSecurty) | Siber güvenlik eğitim uygulaması *(geliştiriliyor / in development)* | Kotlin |
 
