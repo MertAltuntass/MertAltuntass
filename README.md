@@ -75,10 +75,10 @@ automation scripts. Currently developing **MMEdu**, a gamified cyber security le
 
 ---
 
-### 📊 GitHub İstatistikleri / Stats
+### 🐍 Katkı Aktivitesi / Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MertAltuntass/MertAltuntass/main/github-metrics.svg" alt="GitHub metrics"/>
+  <img width="100%" src="https://raw.githubusercontent.com/MertAltuntass/MertAltuntass/output/github-contribution-grid-snake.svg" alt="matrix snake animation"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,50:0F766E,100:0A0E14&height=100&section=footer" alt="footer"/>
